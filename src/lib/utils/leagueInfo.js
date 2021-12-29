@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>This is the official page of the greatest fantasy league ever created!</p>
-  <p>The premise of this entire league revolves around 2 leagues that run independtly. The leagues are the Premier Football League, the PFL and the Ugly Sisters Football League, the USFL.</p>
+  <p>The premise of this entire league revolves around 2 leagues that run independently. The leagues are the Premier Football League or PFL and the Ugly Sisters Football League, or USFL.</p>
 `;
 
 /*   STEP 3   */
